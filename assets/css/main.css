@@ -1,0 +1,214 @@
+/* *{
+    font-family: sans-serif; 
+}*/
+/* EJERCICIO 1 */
+.box1{
+    display: block;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 0px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.box2{
+    display: block;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 0px;
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+.box3{
+    display: block;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 0px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+/* ejercicio 2 */
+
+.box7{
+    display: block;
+    width: 150px;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 10px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.box8{
+    display: block;
+    width: 150px;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+.box9{
+    display: block;
+    width: 150px;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+
+/* ejercicio 3 */
+
+
+.box4{
+    display: inline-block;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.box5{
+    display: inline-block;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 10px;
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+.box6{
+    display: inline-block;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.box10{
+    display: inline-block;
+    width: 150px;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+.box11{
+    display: inline-block;
+     width: 150px;
+    color: black;
+    background-color: crimson;
+    padding: 10px;
+    margin: 10px;
+    text-transform: lowercase;
+    font-weight: bolder;
+}
+.box12{
+    display: inline-block;
+     width: 150px;
+    color: black;
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.caja1{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+.caja2{
+    display: block;
+    width: 450px;
+    height: 150px;
+    margin: 10px;
+    background: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+.caja6{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+.caja7{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+.caja8{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: palevioletred;
+    color: black;
+    font-size: 30px;
+}
+.caja3{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: gray;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: -150px;
+    bottom: 0;
+    right: 0;
+    left: 50px;
+    
+}
+.caja4{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: gray;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: -150px;
+    bottom: 0;
+    right: 0;
+    left: 50px;
+    
+}
+.caja5{
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    background: gray;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: -270px;
+    bottom: 0;
+    right: 0;
+    left: 300px;
+}
